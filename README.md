@@ -71,3 +71,22 @@ Answer: B
 $Xc$ = $${1} \over {2 * \pi * f * c}$$ = ≈ $−j395.1\Omega$
 
 The impedance of a capacitor has a negative j value. --> 300 right, 400 down
+
+
+## E5 B11
+
+What is the phase angle between the voltage across and the current through a series RLC circuit if XC is 25 ohms, R is 100 ohms, and XL is 50 ohms?
+
+- A. 76 degrees with the voltage leading the current
+- B. 14 degrees with the voltage leading the current
+- C. 76 degrees with the voltage lagging the current
+- D. 14 degrees with the voltage lagging the current
+
+Answer: B
+
+
+phase angle ϕ=$$ tan−1 {XL−XCR}\over R$$
+
+If the angle is positive, then the voltage is leading. 
+
+Test Tip: ALL the answers to these questions are 14 degrees. For the test, remember: if XC>XL, voltage lags.
