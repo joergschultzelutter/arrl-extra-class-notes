@@ -36,3 +36,21 @@ What is the time constant of a circuit having two 220-microfarad capacitors and 
 Answer: B
 
 $\tau$ = $R * C$ = $500 M\Omega * 440 pF$
+
+
+## E4 C14
+
+What transmit frequency might generate an image response signal in a receiver tuned to 14.300 MHz and that uses a 455 kHz IF frequency?
+
+- A. 14.755 MHz
+- B. 13.845 MHz
+- C. 14.445 MHz
+- D. 15.210 MHz
+
+Answer: D
+
+An image response signal may be located at the tuned frequency ± $2×$ the intermediate frequency:
+
+$$14.300 MHz+(455 kHz⋅2)=15.210 MHz$$
+$$14.300 MHz−(455 kHz⋅2)=13.390 MHz$$
+Of the two results, only one is in the list of possible answers: 15.210 MHz.
