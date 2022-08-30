@@ -1,5 +1,7 @@
 # arrl-extra-class-notes
 
+Personal notes for the ARRL FCC Extra Class Exam. Work in progress.
+
 ## E8 B05
 What is the deviation ratio of an FM-phone signal having a maximum frequency swing of plus-or-minus 5 kHz when the maximum modulation frequency is 3 kHz?
 
