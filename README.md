@@ -54,3 +54,18 @@ An image response signal may be located at the tuned frequency ± $2×$ the inte
 $$14.300 MHz+(455 kHz⋅2)=15.210 MHz$$
 $$14.300 MHz−(455 kHz⋅2)=13.390 MHz$$
 Of the two results, only one is in the list of possible answers: 15.210 MHz.
+
+## E5 C12
+
+Which point on Figure E5-1 best represents the impedance of a series circuit consisting of a 300-ohm resistor and a 19-picofarad capacitor at 21.200 MHz?
+
+- A. Point 3
+- B. Point 1
+- C. Point 8
+- D. Point 7
+
+Answer: B
+
+$Xc$ = $${1} \over {2 * \pi * f * c}$$ = ≈ $−j395.1\Omega$
+
+The impedance of a capacitor has a negative j value. --> 300 right, 400 down
