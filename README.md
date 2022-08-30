@@ -90,3 +90,20 @@ phase angle ϕ=$$ tan−1 {XL−XCR}\over R$$
 If the angle is positive, then the voltage is leading. 
 
 Test Tip: ALL the answers to these questions are 14 degrees. For the test, remember: if XC>XL, voltage lags.
+
+## E9 F05
+
+What is the approximate physical length of a solid polyethylene dielectric coaxial transmission line that is electrically 1/4 wavelength long at 14.1 MHz?
+
+- A. 4.3 meters
+- B. 3.5 meters
+- C. 5.3 meters
+- D. 10.6 meters
+
+Answer : B
+
+The velocity factor of solid polyethylene dielectric coax is 66%
+
+$${300000} \over {14100}$$ = 21.3m. Divide by 4. Muitiply by 0.66
+
+--> Merker (wenngleich falsche Berechnung) 14.1/4 --> 3.5
