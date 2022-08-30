@@ -1,4 +1,13 @@
 # arrl-extra-class-notes
 
-When $a \ne 0$, there are two solutions to $(ax^2 + bx + c = 0)$ and they are 
-$$x = {-b \pm \sqrt{b^2-4ac} \over 2a * \pi}$$
+## E8 B05
+What is the deviation ratio of an FM-phone signal having a maximum frequency swing of plus-or-minus 5 kHz when the maximum modulation frequency is 3 kHz?
+
+- A. 0.167
+- B. 60
+- C. 0.6
+- D. 1.67
+
+Answer: D
+
+$DeviationRatio$ = $${MaximumFrequencySwing} \over {MaximumModulationFrequency}$$
