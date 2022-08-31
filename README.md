@@ -85,7 +85,7 @@ What is the phase angle between the voltage across and the current through a ser
 Answer: B
 
 
-phase angle = $$\atan {XL−XC}\over R$$
+phase angle = atan(XL−XC}/R
 
 If the angle is positive, then the voltage is leading. 
 
