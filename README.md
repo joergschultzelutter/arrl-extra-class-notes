@@ -85,11 +85,11 @@ What is the phase angle between the voltage across and the current through a ser
 Answer: B
 
 
-phase angle ϕ=$$ tan−1 {XL−XCR}\over R$$
+phase angle = $$ atan {XL−XC}\over R$$
 
 If the angle is positive, then the voltage is leading. 
 
-Test Tip: ALL the answers to these questions are 14 degrees. For the test, remember: if XC>XL, voltage lags.
+Test Tip: ALL the answers to these questions are 14 degrees. For the test, remember: __if XC>XL, voltage lags__.
 
 ## E9 F05
 
