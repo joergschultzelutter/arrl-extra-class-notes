@@ -145,3 +145,14 @@ What is the power factor of an RL circuit having a 45-degree phase angle between
 Answer: A
 
 cos(angle)
+
+## E8 B04
+
+What is the modulation index of an FM-phone signal having a maximum carrier deviation of plus or minus 6 kHz when modulated with a 2 kHz modulating frequency?
+
+- A. 2000
+- B. 6000
+- C. 3
+- D. 1/3
+
+= (carrier deviation) / modulated frequency
