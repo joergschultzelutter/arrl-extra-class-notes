@@ -107,3 +107,15 @@ The velocity factor of solid polyethylene dielectric coax is 66%
 $${300000} \over {14100}$$ = 21.3m. Divide by 4. Muitiply by 0.66
 
 --> Merker (wenngleich falsche Berechnung) 14.1/4 --> 3.5
+
+## E5 A12
+What is the half-power bandwidth of a resonant circuit that has a resonant frequency of 3.7 MHz and a Q of 118?
+
+- A. 436.6 kHz
+- B. 15.7 kHz
+- C. 218.3 kHz
+- D. 31.4 kHz
+
+Answer: D
+
+$BWhalfpower$ = $${f}\over{Q}$$
