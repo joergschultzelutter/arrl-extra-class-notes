@@ -169,3 +169,16 @@ What is the resonant frequency of an RLC circuit if R is 33 ohms, L is 50 microh
 Answer: C
 
 R is irrelevant for the calculation!!!! use $f$ = $${1}\over{2*\pi*\sqrt{L*C}}$$
+
+## E8 C05
+
+What is the approximate bandwidth of a 13-WPM International Morse Code transmission?
+
+- A. 26 Hz
+- B. 52 Hz
+- C. 104 Hz
+- D. 13 Hz
+
+Answer: B
+
+= WPM * 4(Hz)
