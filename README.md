@@ -156,3 +156,16 @@ What is the modulation index of an FM-phone signal having a maximum carrier devi
 - D. 1/3
 
 = (carrier deviation) / modulated frequency
+
+## E5 A16
+
+What is the resonant frequency of an RLC circuit if R is 33 ohms, L is 50 microhenries and C is 10 picofarads?
+
+- A. 7.12 kHz
+- B. 23.5 kHz
+- C. 7.12 MHz
+- D. 23.5 MHz
+
+Answer: C
+
+R is irrelevant for the calculation!!!! use $f$ = $${1}\over{2*\pi*\sqrt{L*C}}$$
