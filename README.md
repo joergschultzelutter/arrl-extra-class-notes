@@ -119,3 +119,15 @@ What is the half-power bandwidth of a resonant circuit that has a resonant frequ
 Answer: D
 
 $BWhalfpower$ = $${f}\over{Q}$$
+
+
+## E9 B03
+
+In the antenna radiation pattern shown in Figure E9-1, what is the front-to-side ratio?
+
+- A. 18 dB
+- B. 14 dB
+- C. 12 dB
+- D. 24 dB
+
+This is simply a case of taking the difference between the value of the peak front radiation and the peak side radiation. The front is 0dB and the side is less than -12 and more than -24, much nearer the -12 value. So, the front-to-side ratio is greater than 0 - -12dB or 12dB but only a little greater so given the answers shows 14dB looks more likely than 18dB. A Silly HINT: All distractors are multiples of 6 (12, 18, 24) except for the correct answer, 14
