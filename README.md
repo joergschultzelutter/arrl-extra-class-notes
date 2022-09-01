@@ -131,3 +131,17 @@ In the antenna radiation pattern shown in Figure E9-1, what is the front-to-side
 - D. 24 dB
 
 This is simply a case of taking the difference between the value of the peak front radiation and the peak side radiation. The front is 0dB and the side is less than -12 and more than -24, much nearer the -12 value. So, the front-to-side ratio is greater than 0 - -12dB or 12dB but only a little greater so given the answers shows 14dB looks more likely than 18dB. A Silly HINT: All distractors are multiples of 6 (12, 18, 24) except for the correct answer, 14
+
+
+## E5 D15
+
+What is the power factor of an RL circuit having a 45-degree phase angle between the voltage and the current?
+
+- A. 0.707
+- B. 1.0
+- C. 0.5
+- D. 0.866
+
+Answer: A
+
+cos(angle)
