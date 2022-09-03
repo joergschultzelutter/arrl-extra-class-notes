@@ -211,3 +211,16 @@ S11 = input reflection coefficient
 S12 = reverse gain
 S21 = forward gain
 S22 = output reflection coefficient
+
+## E5 A11
+
+What is the half-power bandwidth of a resonant circuit that has a resonant frequency of 7.1 MHz and a Q of 150?
+
+- A. 157.8 Hz
+- B. 47.3 kHz
+- C. 23.67 kHz
+- D. 315.6 Hz
+
+Answer: B
+
+B = f / Q
