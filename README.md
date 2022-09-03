@@ -195,3 +195,19 @@ A CW receiver with the AGC off has an equivalent input noise power density of -1
 Answer: A
 
 $$-174db + (10* log(400))$$
+
+## E4 B03
+
+Which S parameter is equivalent to forward gain?
+
+- A. S21
+- B. S11
+- C. S22
+- D. S12
+
+Answer: A
+
+S11 = input reflection coefficient
+S12 = reverse gain
+S21 = forward gain
+S22 = output reflection coefficient
