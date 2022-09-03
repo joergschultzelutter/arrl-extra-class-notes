@@ -182,3 +182,16 @@ What is the approximate bandwidth of a 13-WPM International Morse Code transmiss
 Answer: B
 
 = WPM * 4(Hz)
+
+## E4 C06
+
+A CW receiver with the AGC off has an equivalent input noise power density of -174 dBm/Hz. What would be the level of an unmodulated carrier input to this receiver that would yield an audio output SNR of 0 dB in a 400 Hz noise bandwidth?
+
+- A. -148 dBm
+- B. -164 dBm
+- C. -155 dBm
+- D. -174 dBm
+
+Answer: A
+
+$$-174db + (10* log(400))$$
