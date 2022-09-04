@@ -224,3 +224,16 @@ What is the half-power bandwidth of a resonant circuit that has a resonant frequ
 Answer: B
 
 B = f / Q
+
+## E9 E10
+
+Which of these choices is an effective way to match an antenna with a 100-ohm feed point impedance to a 50-ohm coaxial cable feed line?
+
+- A. Connect a 1/4-wavelength open stub of 300-ohm twinlead in parallel with the coaxial feed line where it connects to the antenna
+- B. Insert a 1/2 wavelength piece of 300-ohm twinlead in series between the antenna terminals and the 50-ohm feed cable
+- C. Insert a 1/4-wavelength piece of 75-ohm coaxial cable transmission line in series between the antenna terminals and the 50-ohm feed cable
+- D. Connect a 1/2 wavelength shorted stub of 75-ohm cable in parallel with the 50-ohm cable where it attaches to the antenna
+
+Answer: C
+
+$$\sqrt({50*100})$$
