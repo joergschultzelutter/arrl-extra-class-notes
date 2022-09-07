@@ -212,6 +212,22 @@ S12 = reverse gain
 S21 = forward gain
 S22 = output reflection coefficient
 
+## E4 B04
+
+Which S parameter is equivalent to forward gain?
+
+- A. S21
+- B. S11
+- C. S22
+- D. S12
+
+Answer: B
+
+S11 = input reflection coefficient
+S12 = reverse gain
+S21 = forward gain
+S22 = output reflection coefficient
+
 ## E5 A11
 
 What is the half-power bandwidth of a resonant circuit that has a resonant frequency of 7.1 MHz and a Q of 150?
