@@ -446,3 +446,25 @@ C. The reference voltage of the analog-to-digital converter
 D. The maximum count value of the analog-to-digital converter
 
 Answer: C
+
+## E9 H10
+
+How can the output voltage of a multiple-turn receiving loop antenna be increased?
+
+A. By winding adjacent turns in opposing directions
+B. By increasing the number of turns and/or the area
+C. By reducing the permeability of the loop shield
+D. By utilizing high impedance wire for the coupling loop
+
+Answer: B
+
+## E7 C01
+
+How are the capacitors and inductors of a low-pass filter Pi-network arranged between the network's input and output?
+
+A. Two capacitors are in series between the input and output, and an inductor is connected between the two capacitors and ground
+B. A capacitor is connected between the input and ground, another capacitor is connected between the output and ground, and an inductor is connected between input and output
+C. An inductor is connected between the input and ground, another inductor is connected between the output and ground, and a capacitor is connected between the input and output
+D. Two inductors are in series between the input and output, and a capacitor is connected between the two inductors and ground
+
+Answer: B
