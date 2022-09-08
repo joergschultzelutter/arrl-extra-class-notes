@@ -265,6 +265,17 @@ What is the radiation pattern of two 1/4-wavelength vertical antennas spaced 1/4
 
 Answer: D
 
+## E9 C03
+
+What is the radiation pattern of two 1/4-wavelength vertical antennas spaced 1/2-wavelength apart and fed in phase?
+
+- A. A Figure-8 broadside to the axis of the array
+- B. A Figure-8 end-fire along the axis of the array
+- C. Omni-directional
+- D. Cardioid
+
+Answer: A
+
 ## E1 C01
 
 What is the maximum bandwidth for a data emission on 60 meters?
