@@ -376,3 +376,14 @@ What impedance does a 1/4-wavelength transmission line present to a generator wh
 - D. Very high impedance
 
 Answer: D
+
+## E5 A01
+
+What is the approximate maximum separation measured along the surface of the Earth between two stations communicating by EME?
+
+- A. 2000 miles, if the moon is at apogee
+- B. 12,000 miles, if the moon is visible by both stations
+- C. 5000 miles, if the moon is at perigee
+- D. 500 miles, if the moon is at perigee
+
+Answer: B
