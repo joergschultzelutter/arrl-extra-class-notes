@@ -411,3 +411,16 @@ How can an RF power amplifier be neutralized?
 Answer: C
 
 --> Referenz: 180 degrees. Hat B nicht.
+
+## E6 E08
+
+How is power supplied to the most common type of MMIC?
+
+A. MMICs require no operating bias
+B. Directly to the bias voltage (VCC IN) lead
+C. Through a capacitor and RF choke connected to the amplifier input lead
+D. Through a resistor and/or RF choke connected to the amplifier output lead
+
+Answer: D
+
+You can't supply DC power through a capacitor because capacitors block DC.
