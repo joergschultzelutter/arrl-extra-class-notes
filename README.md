@@ -264,3 +264,14 @@ What is the radiation pattern of two 1/4-wavelength vertical antennas spaced 1/4
 - D. Cardioid
 
 Answer: D
+
+## E1 C01
+
+What is the maximum bandwidth for a data emission on 60 meters?
+
+- A. 170 Hz
+- B. 60 Hz
+- C. 1.5 kHz
+- D. 2.8 kHz
+
+Answer: D
