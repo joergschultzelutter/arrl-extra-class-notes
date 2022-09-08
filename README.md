@@ -517,3 +517,17 @@ D. It is unchanged
 Answer: A 
 
 --> Kehrwert!
+
+
+## E6 D02
+
+What is the equivalent circuit of a quartz crystal?
+
+A. Motional capacitance, motional inductance, and loss resistance in series, all in parallel with a shunt capacitor representing electrode and stray capacitance
+B. Motional inductance and loss resistance in series, paralleled with motional capacitance and a capacitor representing electrode and stray capacitance
+C. Motional capacitance, motional inductance, loss resistance, and a capacitor representing electrode and stray capacitance all in parallel
+D. Motional capacitance, motional inductance, loss resistance, and a capacitor representing electrode and stray capacitance all in series
+
+Answer: A
+
+--> Shunt!!!!
