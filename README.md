@@ -387,3 +387,27 @@ What is the approximate maximum separation measured along the surface of the Ear
 - D. 500 miles, if the moon is at perigee
 
 Answer: B
+
+## E7 C03
+
+What advantage does a series-L Pi-L-network have over a series-L Pi-network for impedance matching between the final amplifier of a vacuum-tube transmitter and an antenna?
+
+- A. Higher efficiency
+- B. Does not require a capacitor
+- C. Greater harmonic suppression
+- D. Greater transformation range
+
+Answer: C
+
+## E7 B08
+
+How can an RF power amplifier be neutralized?
+
+- A. By reducing the driving power
+- B. By feeding an in-phase component of the output back to the input
+- C. By feeding a 180-degree out-of-phase portion of the output back to the input
+- D. By increasing the driving power
+
+Answer: C
+
+--> Referenz: 180 degrees. Hat B nicht.
