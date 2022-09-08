@@ -275,3 +275,15 @@ What is the maximum bandwidth for a data emission on 60 meters?
 - D. 2.8 kHz
 
 Answer: D
+
+
+## E7 D05
+
+Which of the following types of linear voltage regulator places a constant load on the unregulated voltage source?
+
+- A. A series regulator
+- B. A constant current source
+- C. A shunt current source
+- D. A shunt regulator
+
+Answer: D
