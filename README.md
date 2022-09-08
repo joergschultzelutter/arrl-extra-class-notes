@@ -325,3 +325,15 @@ Answer: B
 
 Hint: Vestigial means a small part or portion of something larger.
 
+## E6 B08
+
+Which of the following is a Schottky barrier diode?
+
+- A. Metal-semiconductor junction
+- B. Thermionic emission diode
+- C. PIN junction
+- D. Electrolytic rectifier
+
+Answer: A
+
+Hint: "Semiconductor" is in the answer. 
