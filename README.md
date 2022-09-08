@@ -468,3 +468,14 @@ C. An inductor is connected between the input and ground, another inductor is co
 D. Two inductors are in series between the input and output, and a capacitor is connected between the two inductors and ground
 
 Answer: B
+
+## E9 D10
+
+What happens to feed-point impedance at the base of a fixed length HF mobile antenna when operated below its resonant frequency?
+
+A. The radiation resistance decreases and the capacitive reactance increases
+B. The radiation resistance increases and the capacitive reactance increases
+C. The radiation resistance decreases and the capacitive reactance decreases
+D. The radiation resistance increases and the capacitive reactance decreases
+
+Answer: A
