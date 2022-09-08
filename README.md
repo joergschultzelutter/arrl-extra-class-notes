@@ -493,3 +493,27 @@ Answer: B
 
 An easy way to remember this is the two lines help form a triangle, or the Greek letter used as the fourth letter in the phonetic alphabet
 Hint: The question says 'higher' impedance. Think Delta planes fly 'higher'.
+
+## E6 A06
+
+What is the beta of a bipolar junction transistor?
+
+A. The breakdown voltage of the base to collector junction
+B. The change in collector current with respect to base current
+C. The frequency at which the current gain is reduced to 0.707
+D. The switching speed
+
+Answer: A
+
+## E5 B05
+
+What happens to the magnitude of a pure reactance when it is converted to a susceptance?
+
+A. It becomes the reciprocal
+B. It is shifted by 90 degrees
+C. The sign is reversed
+D. It is unchanged
+
+Answer: A 
+
+--> Kehrwert!
