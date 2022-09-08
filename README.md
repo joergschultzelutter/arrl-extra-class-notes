@@ -436,3 +436,13 @@ D. To protect the substrate from excessive voltages
 
 Answer: A
 
+## E4 C08
+
+An SDR receiver is overloaded when input signals exceed what level?
+
+A. One-half the maximum sampling buffer size
+B. One-half the maximum sample rate
+C. The reference voltage of the analog-to-digital converter
+D. The maximum count value of the analog-to-digital converter
+
+Answer: C
