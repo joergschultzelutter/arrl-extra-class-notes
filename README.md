@@ -298,3 +298,16 @@ Which of the following types of linear voltage regulator places a constant load 
 - D. A shunt regulator
 
 Answer: D
+
+## E5 A10
+
+How is the Q of an RLC series resonant circuit calculated?
+
+- A. Reactance of either the inductance or capacitance multiplied by the resistance
+- B. Reactance of either the inductance or capacitance divided by the resistance
+- C. Reactance of the inductance multiplied by the reactance of the capacitance
+- D. Resistance divided by the reactance of either the inductance or capacitance
+
+Answer: B
+
+Q = X/R
