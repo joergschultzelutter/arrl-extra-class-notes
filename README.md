@@ -337,3 +337,19 @@ Which of the following is a Schottky barrier diode?
 Answer: A
 
 Hint: "Semiconductor" is in the answer. 
+
+## E7 G03
+
+What is the typical input impedance of an op-amp?
+
+- A. 1000 ohms
+- B. Very high
+- C. Very low
+- D. 100 ohms
+
+Answer: B
+
+MEMORY HINT:
+
+Think - (I)nput pointing to Very h(i)gh
+Think - (O)utput pointing to Very l(o)w
