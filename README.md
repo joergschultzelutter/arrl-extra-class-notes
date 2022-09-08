@@ -531,3 +531,16 @@ D. Motional capacitance, motional inductance, loss resistance, and a capacitor r
 Answer: A
 
 --> Shunt!!!!
+
+## E4 B10
+
+Which of the following methods measures intermodulation distortion in an SSB transmitter?
+
+A. Modulate the transmitter using two AF signals having non-harmonically related frequencies and observe the RF output with a spectrum analyzer
+B. Modulate the transmitter using two RF signals having harmonically related frequencies and observe the RF output with a logic analyzer
+C. Modulate the transmitter using two AF signals having harmonically related frequencies and observe the RF output with a peak reading wattmeter
+D. Modulate the transmitter using two RF signals having non-harmonically related frequencies and observe the RF output with a spectrum analyzer
+
+Answer: A
+
+We use audio to modulate the carrier in SSB mode so the answer saying use radio frequencies is clearly wrong.
