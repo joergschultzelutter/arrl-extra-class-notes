@@ -311,3 +311,17 @@ How is the Q of an RLC series resonant circuit calculated?
 Answer: B
 
 Q = X/R
+
+## E2 B06
+
+What is vestigial sideband modulation?
+
+- A. Spread spectrum modulation achieved by applying FM modulation following single sideband amplitude modulation
+- B. Amplitude modulation in which one complete sideband and a portion of the other are transmitted
+- C. Narrow-band FM modulation achieved by filtering one sideband from the audio before frequency modulating the carrier
+- D. A type of modulation in which one sideband is inverted
+
+Answer: B
+
+Hint: Vestigial means a small part or portion of something larger.
+
