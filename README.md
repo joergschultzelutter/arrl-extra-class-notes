@@ -365,3 +365,14 @@ What is the maximum legal carrier frequency on the 20 meter band for transmittin
 - D. 14.070 MHz
 
 Answer: A
+
+## E9 F12
+
+What impedance does a 1/4-wavelength transmission line present to a generator when the line is open at the far end?
+
+- A. Very low impedance
+- B. The same as the input impedance to the generator
+- C. The same as the characteristic impedance of the line
+- D. Very high impedance
+
+Answer: D
