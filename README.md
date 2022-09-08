@@ -424,3 +424,15 @@ D. Through a resistor and/or RF choke connected to the amplifier output lead
 Answer: D
 
 You can't supply DC power through a capacitor because capacitors block DC.
+
+## E6 A12
+
+Why do many MOSFET devices have internally connected Zener diodes on the gates?
+
+A. To reduce the chance of static damage to the gate
+B. To keep the gate voltage within specifications and prevent the device from overheating
+C. To provide a voltage reference for the correct amount of reverse-bias gate voltage
+D. To protect the substrate from excessive voltages
+
+Answer: A
+
