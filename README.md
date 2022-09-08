@@ -479,3 +479,17 @@ C. The radiation resistance decreases and the capacitive reactance decreases
 D. The radiation resistance increases and the capacitive reactance decreases
 
 Answer: A
+
+## E9 E01
+
+What system matches a higher-impedance transmission line to a lower-impedance antenna by connecting the line to the driven element in two places spaced a fraction of a wavelength each side of element center?
+
+A. The omega matching system
+B. The delta matching system
+C. The stub matching system
+D. The gamma matching system
+
+Answer: B
+
+An easy way to remember this is the two lines help form a triangle, or the Greek letter used as the fourth letter in the phonetic alphabet
+Hint: The question says 'higher' impedance. Think Delta planes fly 'higher'.
