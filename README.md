@@ -353,3 +353,15 @@ MEMORY HINT:
 
 Think - (I)nput pointing to Very h(i)gh
 Think - (O)utput pointing to Very l(o)w
+
+
+## E1 A03
+
+What is the maximum legal carrier frequency on the 20 meter band for transmitting USB AFSK digital signals having a 1 kHz bandwidth?
+
+- A. 14.149 MHz
+- B. 14.100 MHz
+- C. 14.349 MHz
+- D. 14.070 MHz
+
+Answer: A
