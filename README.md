@@ -557,3 +557,16 @@ What is deviation ratio?
 Answer: B
 
 Hint: Only the question and the correct answer have 'deviation' in it.
+
+## E9 G05
+
+Which of the following is a common use for a Smith chart?
+
+- A. Determine the impedance of a transmission line, given the physical dimensions
+- B. Determine the gain of an antenna given the physical and electrical parameters
+- C. Determine the loss/100 feet of a transmission line, given the velocity factor and conductor materials
+- D. Determine the length and position of an impedance matching stub
+
+Answer: D
+
+The Smith Chart is a tool for representing complex impedances in polar coordinates. It is used for designing feedlines, filters, antennas etc.
