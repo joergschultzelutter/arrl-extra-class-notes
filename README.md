@@ -570,3 +570,20 @@ Which of the following is a common use for a Smith chart?
 Answer: D
 
 The Smith Chart is a tool for representing complex impedances in polar coordinates. It is used for designing feedlines, filters, antennas etc.
+
+## E4 C03
+
+What is the term for the suppression in an FM receiver of one signal by another stronger signal on the same frequency?
+
+- A. Capture effect
+- B. Desensitization
+- C. Cross-modulation interference
+- D. Frequency discrimination
+
+Answer: A
+
+Capture effect is an FM phenomenon in which given two signals at or near the same frequency, a receiver will demodulate only the stronger of the two. The weaker signal is effectively suppressed.
+
+Desensitization occurs when a transmitter in close proximity and frequency to a receiver, without adequate isolation, causes interference and makes reception of weaker signals difficult.
+
+Memory tip: strong warriors capture weaker ones.
