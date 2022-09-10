@@ -587,3 +587,14 @@ Capture effect is an FM phenomenon in which given two signals at or near the sam
 Desensitization occurs when a transmitter in close proximity and frequency to a receiver, without adequate isolation, causes interference and makes reception of weaker signals difficult.
 
 Memory tip: strong warriors capture weaker ones.
+
+## E7 E11
+
+Which type of detector circuit is used for demodulating SSB signals?
+
+- A. Discriminator
+- B. Phase detector
+- C. Product detector
+- D. Phase comparator
+
+Answer: C
