@@ -598,3 +598,18 @@ Which type of detector circuit is used for demodulating SSB signals?
 - D. Phase comparator
 
 Answer: C
+
+## E5 A07
+
+What is the magnitude of the current at the input of a parallel RLC circuit at resonance?
+
+- A. R/L
+- B. Minimum
+- C. Maximum
+- D. L/R
+
+Answer: B
+
+I = U / Z
+
+If Z is at a maximum, then the input current I must be at a mininum
