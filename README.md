@@ -416,10 +416,10 @@ Answer: C
 
 How is power supplied to the most common type of MMIC?
 
-A. MMICs require no operating bias
-B. Directly to the bias voltage (VCC IN) lead
-C. Through a capacitor and RF choke connected to the amplifier input lead
-D. Through a resistor and/or RF choke connected to the amplifier output lead
+- A. MMICs require no operating bias
+- B. Directly to the bias voltage (VCC IN) lead
+- C. Through a capacitor and RF choke connected to the amplifier input lead
+- D. Through a resistor and/or RF choke connected to the amplifier output lead
 
 Answer: D
 
@@ -429,10 +429,10 @@ You can't supply DC power through a capacitor because capacitors block DC.
 
 Why do many MOSFET devices have internally connected Zener diodes on the gates?
 
-A. To reduce the chance of static damage to the gate
-B. To keep the gate voltage within specifications and prevent the device from overheating
-C. To provide a voltage reference for the correct amount of reverse-bias gate voltage
-D. To protect the substrate from excessive voltages
+- A. To reduce the chance of static damage to the gate
+- B. To keep the gate voltage within specifications and prevent the device from overheating
+- C. To provide a voltage reference for the correct amount of reverse-bias gate voltage
+- D. To protect the substrate from excessive voltages
 
 Answer: A
 
@@ -440,10 +440,10 @@ Answer: A
 
 An SDR receiver is overloaded when input signals exceed what level?
 
-A. One-half the maximum sampling buffer size
-B. One-half the maximum sample rate
-C. The reference voltage of the analog-to-digital converter
-D. The maximum count value of the analog-to-digital converter
+- A. One-half the maximum sampling buffer size
+- B. One-half the maximum sample rate
+- C. The reference voltage of the analog-to-digital converter
+- D. The maximum count value of the analog-to-digital converter
 
 Answer: C
 
@@ -451,10 +451,10 @@ Answer: C
 
 How can the output voltage of a multiple-turn receiving loop antenna be increased?
 
-A. By winding adjacent turns in opposing directions
-B. By increasing the number of turns and/or the area
-C. By reducing the permeability of the loop shield
-D. By utilizing high impedance wire for the coupling loop
+- A. By winding adjacent turns in opposing directions
+- B. By increasing the number of turns and/or the area
+- C. By reducing the permeability of the loop shield
+- D. By utilizing high impedance wire for the coupling loop
 
 Answer: B
 
@@ -462,10 +462,10 @@ Answer: B
 
 How are the capacitors and inductors of a low-pass filter Pi-network arranged between the network's input and output?
 
-A. Two capacitors are in series between the input and output, and an inductor is connected between the two capacitors and ground
-B. A capacitor is connected between the input and ground, another capacitor is connected between the output and ground, and an inductor is connected between input and output
-C. An inductor is connected between the input and ground, another inductor is connected between the output and ground, and a capacitor is connected between the input and output
-D. Two inductors are in series between the input and output, and a capacitor is connected between the two inductors and ground
+- A. Two capacitors are in series between the input and output, and an inductor is connected between the two capacitors and ground
+- B. A capacitor is connected between the input and ground, another capacitor is connected between the output and ground, and an inductor is connected between input and output
+- C. An inductor is connected between the input and ground, another inductor is connected between the output and ground, and a capacitor is connected between the input and output
+- D. Two inductors are in series between the input and output, and a capacitor is connected between the two inductors and ground
 
 Answer: B
 
@@ -473,10 +473,10 @@ Answer: B
 
 What happens to feed-point impedance at the base of a fixed length HF mobile antenna when operated below its resonant frequency?
 
-A. The radiation resistance decreases and the capacitive reactance increases
-B. The radiation resistance increases and the capacitive reactance increases
-C. The radiation resistance decreases and the capacitive reactance decreases
-D. The radiation resistance increases and the capacitive reactance decreases
+- A. The radiation resistance decreases and the capacitive reactance increases
+- B. The radiation resistance increases and the capacitive reactance increases
+- C. The radiation resistance decreases and the capacitive reactance decreases
+- D. The radiation resistance increases and the capacitive reactance decreases
 
 Answer: A
 
@@ -484,10 +484,10 @@ Answer: A
 
 What system matches a higher-impedance transmission line to a lower-impedance antenna by connecting the line to the driven element in two places spaced a fraction of a wavelength each side of element center?
 
-A. The omega matching system
-B. The delta matching system
-C. The stub matching system
-D. The gamma matching system
+- A. The omega matching system
+- B. The delta matching system
+- C. The stub matching system
+- D. The gamma matching system
 
 Answer: B
 
@@ -498,10 +498,10 @@ Hint: The question says 'higher' impedance. Think Delta planes fly 'higher'.
 
 What is the beta of a bipolar junction transistor?
 
-A. The breakdown voltage of the base to collector junction
-B. The change in collector current with respect to base current
-C. The frequency at which the current gain is reduced to 0.707
-D. The switching speed
+- A. The breakdown voltage of the base to collector junction
+- B. The change in collector current with respect to base current
+- C. The frequency at which the current gain is reduced to 0.707
+- D. The switching speed
 
 Answer: A
 
@@ -509,10 +509,10 @@ Answer: A
 
 What happens to the magnitude of a pure reactance when it is converted to a susceptance?
 
-A. It becomes the reciprocal
-B. It is shifted by 90 degrees
-C. The sign is reversed
-D. It is unchanged
+- A. It becomes the reciprocal
+- B. It is shifted by 90 degrees
+- C. The sign is reversed
+- D. It is unchanged
 
 Answer: A 
 
@@ -523,10 +523,10 @@ Answer: A
 
 What is the equivalent circuit of a quartz crystal?
 
-A. Motional capacitance, motional inductance, and loss resistance in series, all in parallel with a shunt capacitor representing electrode and stray capacitance
-B. Motional inductance and loss resistance in series, paralleled with motional capacitance and a capacitor representing electrode and stray capacitance
-C. Motional capacitance, motional inductance, loss resistance, and a capacitor representing electrode and stray capacitance all in parallel
-D. Motional capacitance, motional inductance, loss resistance, and a capacitor representing electrode and stray capacitance all in series
+- A. Motional capacitance, motional inductance, and loss resistance in series, all in parallel with a shunt capacitor representing electrode and stray capacitance
+- B. Motional inductance and loss resistance in series, paralleled with motional capacitance and a capacitor representing electrode and stray capacitance
+- C. Motional capacitance, motional inductance, loss resistance, and a capacitor representing electrode and stray capacitance all in parallel
+- D. Motional capacitance, motional inductance, loss resistance, and a capacitor representing electrode and stray capacitance all in series
 
 Answer: A
 
@@ -536,11 +536,24 @@ Answer: A
 
 Which of the following methods measures intermodulation distortion in an SSB transmitter?
 
-A. Modulate the transmitter using two AF signals having non-harmonically related frequencies and observe the RF output with a spectrum analyzer
-B. Modulate the transmitter using two RF signals having harmonically related frequencies and observe the RF output with a logic analyzer
-C. Modulate the transmitter using two AF signals having harmonically related frequencies and observe the RF output with a peak reading wattmeter
-D. Modulate the transmitter using two RF signals having non-harmonically related frequencies and observe the RF output with a spectrum analyzer
+- A. Modulate the transmitter using two AF signals having non-harmonically related frequencies and observe the RF output with a spectrum analyzer
+- B. Modulate the transmitter using two RF signals having harmonically related frequencies and observe the RF output with a logic analyzer
+- C. Modulate the transmitter using two AF signals having harmonically related frequencies and observe the RF output with a peak reading wattmeter
+- D. Modulate the transmitter using two RF signals having non-harmonically related frequencies and observe the RF output with a spectrum analyzer
 
 Answer: A
 
 We use audio to modulate the carrier in SSB mode so the answer saying use radio frequencies is clearly wrong.
+
+## E8 B09
+
+What is deviation ratio?
+
+- A. The ratio of the audio modulating frequency to the center carrier frequency
+- B. The ratio of the maximum carrier frequency deviation to the highest audio modulating frequency
+- C. The ratio of the highest audio modulating frequency to the average audio modulating frequency
+- D. The ratio of the carrier center frequency to the audio modulating frequency
+
+Answer: B
+
+Hint: Only the question and the correct answer have 'deviation' in it.
