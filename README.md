@@ -434,7 +434,7 @@ How can an RF power amplifier be neutralized?
 
 Answer: C
 
---> Referenz: 180 degrees. Hat B nicht.
+--> Referenz: out-of-phase
 
 ## E6 E08
 
