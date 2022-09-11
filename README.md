@@ -639,3 +639,16 @@ D. 146.10 MHz and 147.30 MHz
 Answer: A
 
 --> rechts ungerade
+
+## E3 C13
+
+What type of polarization is best for ground-wave propagation?
+
+- A. Vertical
+- B. Horizontal
+- C. Elliptical
+- D. Circular
+
+Answer: A
+
+Ground wave propagation is most useful on the 1.8 MHz and 3.5 MHz bands during daytime. This only works with vertical waves; horizontal waves will short circuit immediately since the whole electrical field tends to end up in the somewhat conductive ground.
