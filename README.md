@@ -14,6 +14,19 @@ Answer: D
 
 $DeviationRatio$ = $${MaximumFrequencySwing} \over {MaximumModulationFrequency}$$
 
+## E8 C06
+
+What is the bandwidth of a 170-hertz shift, 300-baud ASCII transmission?
+
+- A. 0.5 kHz
+- B. 0.3 kHz
+- C. 1.0 kHz
+- D. 0.1 Hz
+
+Answer: A
+
+$$BW=(K⋅shift)+baud rate=(1.2⋅170 Hz)+300=0.5 kHz$$
+
 # E8 C07
 What is the bandwidth of a 4800-Hz frequency shift, 9600-baud ASCII FM transmission?
 
