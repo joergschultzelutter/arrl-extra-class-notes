@@ -613,3 +613,16 @@ Answer: B
 I = U / Z
 
 If Z is at a maximum, then the input current I must be at a mininum
+
+## E4 D05
+
+What transmitter frequencies would cause an intermodulation-product signal in a receiver tuned to 146.70 MHz when a nearby station transmits on 146.52 MHz?
+
+A. 146.34 MHz and 146.61 MHz
+B. 173.35 MHz and 139.40 MHz
+C. 146.88 MHz and 146.34 MHz
+D. 146.10 MHz and 147.30 MHz
+
+Answer: A
+
+--> rechts ungerade
