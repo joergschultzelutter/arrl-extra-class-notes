@@ -278,6 +278,17 @@ Answer: C
 
 $$\sqrt({50*100})$$
 
+## E9 C01
+
+What is the radiation pattern of two 1/4-wavelength vertical antennas spaced 1/2-wavelength apart and fed 180 degrees out of phase?
+
+- A. Omni-directional
+- B. A figure-8 broadside to the axis of the array
+- C. A figure-8 end-fire along the axis of the array
+- D. Cardioid
+
+Answer: B
+
 ## E9 C02
 
 What is the radiation pattern of two 1/4-wavelength vertical antennas spaced 1/4-wavelength apart and fed 90 degrees out of phase?
